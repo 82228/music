@@ -1,0 +1,23 @@
+{
+  "id": "4562438",
+  "name": "网易云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22813423",
+      "name": "find",
+      "font_class": "find",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "36420999",
+      "name": "wangyiyun-copy",
+      "font_class": "wangyiyun",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4562438",
+  "name": "网易云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1488895",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5387456",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "ead8",
+      "unicode_decimal": 60120
+    },
+    {
+      "icon_id": "911038",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6121710",
+      "name": "选择",
+      "font_class": "xuanze",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10928224",
+      "name": "public-right",
+      "font_class": "public-rightarrow",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7231808",
+      "name": "045-left-arrow",
+      "font_class": "-left-arrow",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "22813423",
+      "name": "find",
+      "font_class": "find",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "36420999",
+      "name": "wangyiyun-copy",
+      "font_class": "wangyiyun",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
